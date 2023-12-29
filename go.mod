@@ -1,3 +1,3 @@
-module github.com/diaahisham/testversionstany/latest
+module github.com/diaahisham/testversionstany
 
 go 1.20
